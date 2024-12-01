@@ -1,6 +1,6 @@
 # Desktop-Application-dengan-Tkinter-Python-hafizhhasyhari-2024
 Aplikasi Desktop Tkinter
-
+**Dibuat oleh : Hafizh Hilman Asyhari**
 ## Deskripsi
 Proyek ini adalah sebuah aplikasi chat berbasis desktop yang dirancang khusus untuk mendukung komunikasi dalam dunia animasi. Aplikasi ini dibangun menggunakan bahasa pemrograman **Python** dan library GUI **Tkinter**. Dengan fitur-fitur seperti scrollable chat frame, handling resizing, wrapping teks, dan simulasi pengiriman data ke API, aplikasi ini cocok untuk memulai eksplorasi dalam pengembangan aplikasi desktop modern.
 
@@ -27,12 +27,13 @@ Pastikan Anda telah menginstal:
   - `tkinter` (sudah termasuk dalam instalasi Python standar)
 
 Masuk ke direktori proyek:
-bash
-Salin kode
+code
+
 cd Desktop-Application-dengan-Tkinter
 Jalankan aplikasi:
-bash
-Salin kode
+
+code
+
 python app.py
 
 code
@@ -44,5 +45,27 @@ Desktop-Application-dengan-Tkinter/
 
 ## Instalasi
 1. Clone repositori ini:
-   ```bash
+code
    git clone https://github.com/hafizhhasyhari/Desktop-Application-dengan-Tkinter.git
+
+
+##**Contoh Penggunaan**
+
+Ketika Anda menjalankan aplikasi, berikut adalah langkah-langkah penggunaannya:
+
+Masukkan pesan di bagian bawah.
+Tekan Enter atau klik tombol Send untuk mengirim pesan.
+Pesan akan ditampilkan di area chat.
+
+
+Kami sangat terbuka untuk kontribusi dari siapa saja!
+Ikuti langkah-langkah berikut untuk berkontribusi:
+
+Fork repositori ini.
+Buat branch baru:
+code
+git checkout -b feature/fitur-baru
+Lakukan perubahan yang diperlukan dan commit:
+code
+git commit -m "Menambahkan fitur baru"
+Push ke branch Anda dan buat pull request.
