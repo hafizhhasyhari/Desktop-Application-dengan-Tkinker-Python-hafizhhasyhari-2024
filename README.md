@@ -29,25 +29,25 @@ Pastikan Anda telah menginstal:
 Masuk ke direktori proyek:
 ```bash
 cd Desktop-Application-dengan-Tkinter
-
+```
 Jalankan aplikasi:
 
 ```bash
-
 python app.py
+```
 
 ```bash
 Desktop-Application-dengan-Tkinter/
 ├── app.py          # File utama aplikasi
 ├── README.md       # Dokumentasi proyek
 └── assets/         # (opsional) Folder untuk ikon/gambar
-
+```
 
 ## Instalasi
 1. Clone repositori ini:
 ```bash
    git clone https://github.com/hafizhhasyhari/Desktop-Application-dengan-Tkinter.git
-
+```
 
 ##**Contoh Penggunaan**
 
@@ -65,7 +65,10 @@ Fork repositori ini.
 Buat branch baru:
 ```bash
 git checkout -b feature/fitur-baru
+```
 Lakukan perubahan yang diperlukan dan commit:
 ```bash
 git commit -m "Menambahkan fitur baru"
+```
+
 Push ke branch Anda dan buat pull request.
